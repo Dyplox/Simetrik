@@ -1,4 +1,4 @@
-# LaHaus
+# Simetrik
 
 Proyecto de automatizacion de Simetrik
 
